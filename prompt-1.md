@@ -109,6 +109,8 @@ Design a MON–SUN family‑dinner plan (<NUMBER OF ADULTS> adults, kids <KIDS A
 
 - Prefer **canola/rapeseed oil** as the default cooking fat this week unless otherwise specified.
 
+- Only prep on Sunday items that will be used within their safe storage window before spoiling or losing quality. For any ingredients needed later in the week (beyond their safe storage time), schedule their prep for a later day (specify which day and what prep to do then). For example:
+
 ## Output rules
 
 - Output only the final plan + the Compliance Check table.
@@ -117,7 +119,7 @@ Design a MON–SUN family‑dinner plan (<NUMBER OF ADULTS> adults, kids <KIDS A
 
 - Use the "Assemble/Reheat Nights — Required Format" where applicable.
 
-### Per-Night Template
+### Per-night template
 
 DAY – Dish name & theme — Active‑Cook | Assemble/Reheat | Eat‑Out
 
@@ -140,7 +142,7 @@ Kid options: (1–2)
 Omega‑3 note (if applicable):
 
 
-### Assemble/Reheat Nights Template
+### Assemble/reheat nights template
 
 - For every **Assemble/Reheat** night, provide this exact structure:
 
@@ -177,6 +179,7 @@ Before finalizing, verify all items below. If anything fails, silently revise an
 | **Leftovers present** | Check that for every week day, leftovers are planned Y/N | |
 | **Leftover spacing** | **Assemble/Reheat dinners scheduled ≥2 days after source Active‑Cook dinner? List source→reuse pairs** | |
 | **Lunches planned** | Which days; each pack <5 min | |
+| **Freshness-sequenced prep** | All Sunday prep items used within safe storage window? Later-week ingredients prepped closer to use? (List delayed preps with day) | |
 | **Prep optimization** | **Each dinner analyzed for maximum advance prep? List weeknight time reductions (e.g., "Mon: 35→15 min")** | |
 | **Themes used & assigned** | Curry=__, Pizza=__, Pasta=__, Sheet‑Pan=__, Mexican=__; **includes ≥1 slow‑cooker?** | |
 | **Excluded meals** | Never used meal from excluded list? Y/N | |
