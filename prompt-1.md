@@ -2,7 +2,7 @@
 
 ## Task
 
-Design a MON–SUN family‑dinner plan (<NUMBER OF ADULTS> adults, kids <KIDS AGES>) plus a one‑time Sunday meal‑prep session.
+Design a MON–SUN family‑dinner plan (`<NUMBER OF ADULTS>` adults, kids `<KIDS AGES>`) plus a one‑time Sunday meal‑prep session.
 
 ## Meal Prep Optimization
 
@@ -31,7 +31,7 @@ Design a MON–SUN family‑dinner plan (<NUMBER OF ADULTS> adults, kids <KIDS A
 
 ### Exclude Meals
 
-- <LIST MEALS YOUR FAMILY DOESN'T LIKE>
+- `<LIST MEALS YOUR FAMILY DOESN'T LIKE>`
 
 ### Cooking Cadence
 
