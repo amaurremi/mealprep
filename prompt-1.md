@@ -157,7 +157,7 @@ Omega‑3 note (if applicable):
 
 ### Sunday meal-prep template
 
-- Table with columns: **Dish / Ingredient**, **Exact Prep**, **Storage & Label**.
+- Table with columns: **Dish / Ingredient / Week day**, **Exact Prep**, **Storage & Label**.
 
 - **Exact Prep**: metric + imperial amounts from grocery list, precise cut/shape (note differences if reused in multiple dishes), and batch prep instructions.
 
