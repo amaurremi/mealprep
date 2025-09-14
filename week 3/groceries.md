@@ -18,7 +18,7 @@
 - **Fresh cilantro** - 1 large bunch
 - **Fresh basil** - 1 bunch (buy Wednesday)
 - **Avocado** - 2 medium
-- **Lemon** - 2
+- **Lemon** - 3
 - **Lime** - 2
 - **Garlic** - 1 head
 - **Onions** - 3 medium
@@ -59,10 +59,5 @@
 - **Garlic powder** - 15ml / 1 tbsp
 - **Dried Italian herbs** - 15ml / 1 tbsp
 - **Kombu** (for beans) - 1 piece
-
-## STORAGE SUPPLIES
-- Airtight containers (various sizes)
-- Freezer bags
-- Paper towels
-- Labels & marker
+- **Salt & pepper**
 
