@@ -1,38 +1,96 @@
 #filename: Sunday_Meal_Prep.pdf
 
-## Sunday Meal Prep – 2 h 45 min  
-(Quantities match corrected grocery list; includes scaled batches for leftovers)
+# SUNDAY MEAL PREP SESSION (3 hours)
 
-| Dish / Ingredient | Exact Prep | Storage & Label |
-|-------------------|------------|-----------------|
-| **Mon – Sheet-Pan Trout** – Sweet potatoes | Peel & cube **600 g / 1.3 lb** into 2 cm (¾ in) pieces | Airtight container; fridge; label “Mon – Sweet Potato” |
-| **Mon – Sheet-Pan Trout** – Asparagus | Trim woody ends from **400 g / 0.9 lb**; leave whole spears | Upright in jar with 2 cm (¾ in) water; loosely cover; fridge; label “Mon – Asparagus” |
-| **Mon – Sheet-Pan Trout** – Trout fillets | Season **680 g / 1.5 lb** with salt, pepper, lemon zest | Wrap individually; airtight; lowest fridge shelf; label “Mon – Trout – Cook by Tue” |
-| **Mon – Sheet-Pan Trout** – Dill yogurt sauce | Chop **8 g / 0.3 oz** dill; mix with **220 g / 7.8 oz** yogurt & juice of 1 lemon | Small airtight jar; fridge; label “Mon – Sauce” |
-| **Tue – Chicken Curry** – Plain yogurt (side) | Portion **220 g / 7.8 oz** yogurt into container | Airtight jar; fridge; label “Tue – Side Yogurt” |
-| **Tue – Chicken Curry** – Chicken thighs | Trim **900 g / 2 lb** boneless thighs; cut into 3 cm (1¼ in) chunks | Airtight; lowest fridge shelf; label “Tue – Chicken – Cook by Wed” |
-| **Tue – Chicken Curry** – Carrots | Peel, slice **300 g / 10 oz** into 0.5 cm (¼ in) rounds | Airtight container; fridge; label “Tue – Carrots” |
-| **Tue – Chicken Curry** – Chickpeas | Cook **240 g / 1.25 cups dry** (yields 480 g cooked) in pressure cooker; drain & cool | Airtight container; fridge; label “Tue/Wed – Chickpeas” |
-| **Tue – Chicken Curry** – Baby spinach | Wash & spin-dry **130 g / 4.6 oz** (half of total) | Salad spinner with paper towel; fridge; label “Tue – Spinach” |
-| **Tue – Chicken Curry** – Curry spice mix | Measure **30 g / 2 tbsp** curry powder into small jar | Pantry; label “Tue – Curry Mix” |
-| **Tue – Chicken Curry** – Brown rice | Cook **300 g / 1.5 cups dry**; cool quickly | Airtight container; fridge; label “Tue/Wed – Rice” |
-| **Thu – Turkey Tacos** – Ground turkey | Portion **600 g / 1.3 lb** raw | Airtight; lowest fridge shelf; label “Thu – Turkey – Cook by Fri” |
-| **Thu – Turkey Tacos** – Black beans | Cook **240 g / 1.25 cups dry** (yields 480 g cooked) in pressure cooker; drain & cool | Airtight container; fridge; label “Thu/Sun – Black Beans” |
-| **Thu – Turkey Tacos** – Bell pepper | Wash, deseed, dice **300 g / 10 oz** into 1 cm (½ in) pieces | Airtight; fridge; label “Thu/Sun – Bell Pepper” |
-| **Thu – Turkey Tacos** – Cheddar | Shred **200 g / 7 oz** | Airtight bag; fridge; label “Thu/Sun – Cheddar” |
-| **Thu – Turkey Tacos** – Avocado | Store **400 g / 14 oz** whole; prep day-of | Fruit bowl; away from bananas; label “Thu/Sun – Avocado” |
-| **Thu – Turkey Tacos** – Cherry tomatoes | Wash & dry **180 g / 6.3 oz** (half total) | Breathable container; fridge; label “Thu – Cherry Tomatoes” |
-| **Fri – Pizza** – Frozen crust | Keep frozen until use | Freezer; label “Fri – Pizza Crust” |
-| **Fri – Pizza** – Mozzarella | Shred **200 g / 7 oz** | Airtight bag; fridge; label “Fri – Mozzarella” |
-| **Fri – Pizza** – Chicken sausage | Slice **160 g / 5.6 oz** cooked sausage into 0.5 cm (¼ in) rounds | Airtight; fridge; label “Fri – Sausage” |
-| **Fri – Pizza** – Baby spinach | Wash & spin-dry **130 g / 4.6 oz** (remaining half) | Salad spinner with paper towel; fridge; label “Fri – Spinach” |
-| **Fri – Pizza** – Cherry tomatoes | Wash & dry **180 g / 6.3 oz** (remaining half) | Breathable container; fridge; label “Fri – Cherry Tomatoes” |
-| **Fri – Pizza** – Pizza sauce | Portion **120 ml / 0.5 cup** | Small airtight container; fridge; label “Fri – Sauce” |
+## BATCH COOKING STEPS
 
-**Efficiency Notes:**  
-- Combine yogurt portioning into two clearly labeled containers for Mon and Tue.  
-- Wash all spinach together; split into two containers labeled Tue and Fri.  
-- Wash all cherry tomatoes together; split into two containers labeled Thu and Fri.  
-- Cook all beans together; portion and label for Thu/Sun and Tue/Wed.  
-- Grate cheeses in one session; store separately labeled bags.
+### GRAINS & BEANS (Start first – 45 min unattended)
+1. **Wild rice:** Cook 2 cups / 400 g dry per package → yields ~6 cups cooked
+2. **Brown rice:** Cook 1.5 cups / 300 g dry per package → yields ~4.5 cups cooked
+3. **Cannellini beans (pressure cooker):** Rinse 12 oz / 340 g dry beans; add 6 cups water; high pressure 25 min; natural release 10 min → yields ~4.5 cups cooked
+4. **Whole-wheat penne:** Cook 12 oz / 340 g per package; drain; toss with 1 tbsp canola oil → yields ~6 cups cooked
 
+**STORAGE:** Wild rice (airtight, fridge, "MON"), brown rice (airtight, fridge, "THURS"), beans (airtight with liquid, fridge, "FRI"), penne (airtight, fridge, "FRI")
+
+---
+
+### PROTEINS (20 min active)
+5. **Rainbow trout (MON):** Season 6 fillets / 24 oz / 680 g: pat dry, brush canola oil, sprinkle 2 tbsp chopped dill + 1 tsp lemon zest, S&P
+6. **Chicken thighs (TUES slow-cooker):** Trim 5 lbs / 2.27 kg boneless skinless thighs; season with S&P, 1 tsp chili powder
+7. **Italian sausage (SUN):** Cook 6 links / 1.5 lbs / 680 g in skillet over medium 12 min until browned; slice into rounds
+
+**STORAGE:** Trout (airtight with parchment, fridge, "MON"), chicken (airtight, fridge, "TUES—TRIPLE BATCH"), sausage (airtight, fridge, "SUN pizza")
+
+---
+
+### SAUCES & CHEESE (15 min active)
+8. **Tinga sauce (TUES):** Blend 1 can / 14.5 oz fire-roasted tomatoes + 3 chipotle peppers + 2 tbsp adobo sauce + 1 tsp cumin + 3 tbsp canola oil
+9. **Yogurt-dill sauce (WED):** Mix ¾ cup / 170 g Greek yogurt + 3 tbsp chopped dill + 1 tsp lemon juice + S&P
+10. **Grate cheeses:** Parmesan 6 oz / 170 g, cheddar 12 oz / 340 g, mozzarella 1 lb / 454 g
+
+**STORAGE:** Tinga sauce (airtight jar, fridge, "TUES"), yogurt sauce (airtight jar, fridge, "WED"), all cheese (separate airtight containers, fridge, labeled by day)
+
+---
+
+### VEGETABLES – FRESH PREP (30 min active)
+11. **Broccoli (MON):** Wash + cut 2 lbs / 900 g into 1-inch florets
+12. **Bell peppers (TUES/THURS):** Wash + slice 3 large / 15 oz into thin strips
+13. **Sheet-pan veg (WED):** Halve 2 lbs / 900 g baby potatoes; cut 1.5 lbs / 680 g carrots into 2-inch sticks; toss with 2 tbsp canola oil, S&P
+14. **Cilantro (TUES/THURS):** Wash 1 bunch, chop all (~1 cup); divide ⅔ for Tues, ⅓ for Thurs
+15. **Dill (MON/WED):** Wash 1 bunch; chop 2 tbsp for Mon, 3 tbsp for Wed; store remaining whole
+16. **Basil (FRI):** Wash 1 bunch; store whole (chop fresh Friday)
+17. **Mushrooms (SUN):** Wipe clean 12 oz / 340 g; slice thin
+18. **Mixed greens (SUN):** Wash + spin dry 6 oz / 170 g if not pre-washed
+
+**STORAGE:** Broccoli (airtight + damp paper towel, fridge, "MON"), peppers (airtight, fridge, "TUES/THURS"), cilantro (2 small airtight + damp towel, fridge, labeled), dill (chopped: airtight; whole: wrapped in damp towel), basil (wrapped in damp towel, fridge, "FRI"), mushrooms (airtight + paper towel, fridge, "SUN"), greens (airtight + paper towel, fridge, "SUN")
+
+---
+
+### VEGETABLES – ROASTED (20 min active + 18 min baking)
+19. **Roasted veg (FRI):** Halve 2 pints cherry tomatoes + cut 1.5 lbs / 680 g asparagus into 2-inch pieces; toss with 3 tbsp canola oil, S&P; roast 425°F for 15–18 min
+
+**STORAGE:** Airtight container, fridge, "Roasted Veg—FRI" **(Can combine with beans on Friday—both go in pasta)**
+
+---
+
+### SHEET-PAN ASSEMBLY (5 min)
+20. **Sheet-pan chicken (WED):** On rimmed sheet pan: arrange 2.5 lbs / 1.13 kg seasoned chicken thighs (2 tsp paprika, S&P, 2 tbsp canola oil) + prepared potatoes + carrots from step 13
+
+**STORAGE:** Cover tightly with plastic wrap, fridge, "Sheet Pan—WED"
+
+---
+
+### FINAL ITEMS (10 min)
+21. **Black beans (TUES):** Drain + rinse 2 cans / 30 oz
+22. **Pizza sauce (SUN):** Portion 1.5 cups / 340 g jarred sauce
+23. **Vinaigrette (SUN):** Whisk 4 tbsp canola oil + 1.5 tbsp balsamic vinegar + ½ tsp Dijon + S&P
+24. **Cherry tomatoes (SUN salad):** Keep 1 pint whole in original container
+
+**STORAGE:** Black beans (airtight, fridge, "TUES"), pizza sauce (airtight, fridge, "SUN"), vinaigrette (small jar, fridge, "SUN"), tomatoes (original container, fridge, "SUN")
+
+---
+
+## STORAGE EFFICIENCY NOTES
+
+**Items stored together (will be mixed in same dish):**
+- **Friday pasta:** Roasted veg + cannellini beans (can store in same container or adjacent)
+- **Tuesday tacos:** Black beans can be near tinga sauce (both used same night)
+- **Sunday pizza:** Sauce + mozzarella + sausage + mushrooms (all pizza toppings)
+
+**Freezer option:** None needed this week (all items used within 5 days)
+
+**Keep separate (different dishes):**
+- Monday items (trout, broccoli, wild rice)
+- Tuesday/Thursday shared items (chicken tinga, peppers, cheese, cilantro)
+- Wednesday items (sheet pan, yogurt sauce)
+
+---
+
+**PREP CHECKLIST:**
+- [ ] All grains & beans cooked
+- [ ] All proteins seasoned/cooked as specified
+- [ ] All sauces & cheeses prepped
+- [ ] All vegetables washed, cut, stored
+- [ ] Sheet pan assembled & wrapped
+- [ ] Everything labeled with day
+- [ ] Fridge organized by day of use

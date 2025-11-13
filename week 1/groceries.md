@@ -1,55 +1,69 @@
 #filename: Grocery_List.pdf
-# Grocery List (Quantities for All Meals & Leftovers)
 
-## Produce
-| Item | Metric | Imperial |
-|------|--------|----------|
-| Bell pepper | 200 g | 7.1 oz |
-| Carrots | 300 g | 10.6 oz |
-| Cherry tomatoes | 900 g | 31.7 oz |
-| Cilantro | 15 g | 0.5 oz |
-| Fresh basil | 15 g | 0.5 oz |
-| Fresh parsley | 30 g | 1.1 oz |
-| Green beans | 450 g | 15.9 oz |
-| Lemon | 2 | 2 |
-| Peas (frozen) | 150 g | 5.3 oz |
-| Salad greens | 150 g | 5.3 oz |
-| Spinach | 150 g | 5.3 oz |
+# WEEKLY GROCERY LIST
 
-## Protein
-| Item | Metric | Imperial |
-|------|--------|----------|
-| Chicken breast | 1,200 g | 42.3 oz |
-| Cod fillets | 600 g | 21.2 oz |
-| Cooked black beans | 800 g | 28.2 oz |
-| Lentil soup (pre-made) | 1,000 g | 35.3 oz |
-| Mozzarella cheese | 225 g | 7.9 oz |
-| Shredded cheddar cheese | 200 g | 7.1 oz |
-| Canned chickpeas | 400 g | 14.1 oz |
+## PROTEINS
+- **Cod fillets**: 900g / 2 lb (6 fillets)
+- **Chicken thighs, bone-in**: 1.5kg / 3.3 lb (10 thighs)
+- **Extra-firm tofu**: 800g / 1.75 lb (2 blocks)
+- **Italian chicken sausages**: 600g / 1.3 lb (6 sausages)
 
-## Grains & Bread
-| Item | Metric | Imperial |
-|------|--------|----------|
-| Brown rice (dry) | 300 g | 10.6 oz |
-| Quinoa (dry) | 200 g | 7.1 oz |
-| Whole-grain pasta (dry) | 250 g | 8.8 oz |
-| Whole-wheat tortillas | 8 | 8 |
-| Whole-grain bread | 1 loaf | 1 loaf |
-| Frozen store-bought pizza crust | 1 | 1 |
+## BEANS & LENTILS
+- **Dried white beans**: 400g / 14 oz
+- **Dried chickpeas**: 350g / 12 oz
+- **Dried red lentils**: 400g / 14 oz
 
-## Dairy & Eggs
-| Item | Metric | Imperial |
-|------|--------|----------|
-| Plain yogurt | 250 g | 8.8 oz |
+## GRAINS & BREAD
+- **Whole wheat couscous**: 450g / 1 lb
+- **Brown rice**: 740g / 1.6 lb
+- **Whole wheat pasta**: 500g / 1.1 lb
+- **Whole grain bread**: 1 loaf
+- **Frozen pizza dough**: 1 (refined flour)
 
-## Pantry
-| Item | Metric | Imperial |
-|------|--------|----------|
-| Coconut milk | 400 g | 14.1 oz |
-| Ground flaxseed | 30 g | 1.1 oz |
-| Walnuts | 30 g | 1.1 oz |
-| Mild curry powder | 15 g | 0.5 oz |
-| Pesto | 125 g | 4.4 oz |
-| Pizza sauce | 125 g | 4.4 oz |
-| Salsa | 125 g | 4.4 oz |
+## VEGETABLES
+- **Carrots**: 600g / 1.3 lb
+- **Celery**: 375g / 13 oz (1 bunch)
+- **Bell peppers**: 6 total (4 for WED, 2 for FRI)
+- **Broccoli**: 400g / 14 oz
+- **Green beans**: 400g / 14 oz
+- **Cherry tomatoes**: 450g / 1 lb
+- **Mushrooms**: 250g / 9 oz
+- **Fresh spinach**: 300g / 10.5 oz (buy in 2 batches)
+- **Fresh ginger**: 1 small piece
+
+## DAIRY & ALTERNATIVES
+- **Plain yogurt**: 500ml / 2 cups
+- **Mozzarella cheese**: 300g / 10.5 oz
+- **Parmesan cheese**: 150g / 5 oz
+- **Fortified plant milk**: 500ml / 2 cups
+- **Coconut milk**: 1 can (400ml / 14 oz)
+- **Tahini**: 125ml / 1/2 cup
+
+## CANNED GOODS
+- **Canned diced tomatoes**: 6 cans (14 oz each)
+- **Tomato sauce**: 1 jar (for pizza)
+
+## HERBS & SEASONINGS
+- **Fresh parsley**: 1 bunch
+- **Fresh dill**: 1 small bunch
+- **Fresh cilantro**: 1 bunch
+- **Fresh rosemary**: 2 sprigs
+- **Fresh thyme**: 3 sprigs
+- **Garam masala**: 1 jar (if needed)
+- **Italian seasoning**: 1 jar (if needed)
+- **Sesame seeds**: 50g / 2 oz
+
+## OMEGA-3 BOOSTERS
+- **Ground flax seeds**: 100g / 3.5 oz
+- **Walnuts**: 125g / 4.5 oz
+
+## PANTRY STAPLES (CHECK)
+- Canola/rapeseed oil
+- Olive oil
+- Lemons (3)
+- Garlic
+- Onions (3)
+- Low-sodium broth/stock
+- Soy sauce
+- Sesame oil
 

@@ -1,21 +1,79 @@
 #filename: Sunday_Meal_Prep.pdf
-# Sunday Meal Prep (Quantities, Cuts & Storage)
 
-| Dish / Ingredient | Exact Prep (from Grocery List) | Storage & Label |
-|-------------------|--------------------------------|-----------------|
-| **Cod fillets** - Mon (600 g) | Pat dry; portion into 4 equal pieces; prepare lemon-parsley oil: zest 1 lemon, chop 15 g parsley finely, mix with 2 tbsp canola oil. | Cod: airtight container, bottom of fridge on ice, use Mon. Oil: small jar, fridge. |
-| **Quinoa** - Mon (200 g dry) | Rinse; cook in rice cooker or pot; cool completely; divide into 3 portions (Mon dinner, 2× lunch boxes). Stir in **15 g ground flax** + **15 g chopped walnuts** only before serving. | Portions in airtight containers, fridge up to 4 days. |
-| **Green beans** - Mon (450 g) | Trim ends; leave whole for Mon + 2 lunch boxes. | Airtight container with damp paper towel, fridge, up to 4 days. |
-| **Chicken breast** - Tue (1.2 kg) | Trim fat; cut into 4 large chunks (for slow-cooker texture). | Store raw in slow-cooker insert or covered bowl, fridge overnight. |
-| **Curry veg** - Mon — Carrots (300 g), Peas (150 g, frozen) | Carrots: peel, cut into 1 cm half-moons (bite-sized for kids). Peas: measure, keep frozen until Tue morning. | Carrots: airtight container, fridge. |
-| **Curry seasonings** - Tue | Measure 15 g mild curry powder into small jar; open 400 ml coconut milk can and store sealed in fridge. | Curry powder: dry jar, pantry. Coconut milk: sealed jar, fridge. |
-| **Brown rice** - Tue (300 g dry) | Portion raw into container; store in pantry. | Pantry. |
-| **Pesto pasta kit** - Wed— Whole-grain pasta (250 g dry), Pesto (125 g) | Cook pasta al dente; toss lightly with 1 tsp oil; cool; store in container. Pesto: prepare or measure ready-made into jar. | Pasta: fridge (up to 4 days). Pesto: fridge. |
-| **Cherry tomatoes** - Wed (900 g total) | Wash all at once; dry. For Wed pasta: leave whole; store 300 g in container. For Thu quesadillas: halve 300 g; store separately. For Sun salad: halve 300 g; store in salad container. | Separate airtight containers, fridge. |
-| **Black beans** - Thu (800 g cooked) | Cook from 400 g dry in pressure cooker (no soak). Mash half very lightly with fork (Thu quesadillas), leave half whole. | Label: “Thu quesadillas – mashed” & “Thu quesadillas – whole”; fridge (up to 4 days). |
-| **Bell pepper** -Thu (200 g) | Slice into 1 cm strips for Thu quesadillas. | Airtight container, fridge. |
-| **Shredded cheddar cheese** -Thu (200 g) | Grate; store in zip bag. | Fridge. |
-| **Lentil soup** - Fri (1,000 g finished) | Cook full batch; cool quickly; store in 2 airtight containers (Fri dinner, extra). | Fridge (up to 4 days) or freeze. |
-| **Spinach** - Fri (150 g) | Wash, dry thoroughly; keep leaves whole for Fri soup. | Salad spinner basket in fridge or airtight container with paper towel. |
-| **Pizza kit** - Sun — Crust, Mozzarella (225 g), Pizza sauce (125 ml), Basil (15 g), Salad greens (150 g), Chickpeas (400 g can) | Mozzarella: grate & store in zip bag. Basil: wash, pat dry, store wrapped in damp paper towel. Salad greens: wash/dry, store in salad spinner or airtight container. Chickpeas: drain, rinse, store in container. | Crust: freezer. All others: fridge. |
+# SUNDAY MEAL PREP GUIDE (3.5 hours)
+
+## PREP STATION 1: BEANS & GRAINS (1 hour)
+**Pressure Cooker Batches**:
+- White beans: 400g/14oz dried → pressure cook 25 min high + natural release → "TUE-Stew"
+- Chickpeas: 350g/12oz dried → pressure cook 35 min high + natural release → "THU-Chickpeas"
+
+**Rice Cooker**: 
+- Brown rice: 740g/1.6lb (4 cups dry) → Divide: 2 cups "WED-Rice", 2 cups "THU-Rice"
+
+**Stovetop**:
+- Couscous: 450g/1lb + 2 tbsp ground flax mixed in → Store "MON-Couscous"
+
+## PREP STATION 2: VEGETABLES (45 min)
+**Wash & Cut Together, Store Separately**:
+- Carrots: Dice 600g/1.3lb → 3 cups "TUE-Stew", 1 cup "SUN-Bolognese"
+- Celery: Dice 375g/13oz → 2.5 cups "TUE-Stew", 0.5 cup "SUN-Bolognese"
+- Bell peppers: 4 cut strips "WED-Sheet Pan", 2 diced "FRI-Pizza"
+- Broccoli: 400g/14oz florets → Store with WED peppers
+- Green beans: Trim 400g/14oz → Bag with paper towel "MON-Beans"
+- Cherry tomatoes: 1.5 cups halved "MON-Cod", 1.5 cups whole "WED-Sheet Pan"
+- Mushrooms: Slice 250g/9oz → Paper towel lined container "FRI-Pizza"
+- Ginger: Grate 2 tbsp → Small container "THU-Ginger"
+
+**Delay Prep** (for freshness):
+- Spinach for THU: Prep Thursday evening (150g/5oz)
+- Spinach for FRI: Prep Friday evening (150g/5oz)
+
+## PREP STATION 3: PROTEINS (30 min)
+- **Cod**: Season 6 fillets (900g/2lb) with herbs, lemon zest → Parchment wrap "MON-Cod"
+- **Chicken thighs**: Season 10 thighs (1.5kg/3.3lb) → Into slow cooker insert
+- **Tofu**: Press, cube 800g/1.75lb, marinate in soy/sesame → "WED-Tofu"
+- **Sausages**: Cook and slice 6 sausages (600g/1.3lb) → "FRI-Pizza"
+
+## PREP STATION 4: SAUCES & COOKING (1 hour)
+**Chickpea Curry Base** (THU):
+1. Sauté onions, garlic, ginger (5 min)
+2. Add 2 cans tomatoes, coconut milk, garam masala
+3. Add cooked chickpeas, simmer 20 min → "THU-Curry Base"
+
+**Lentil Bolognese** (SUN - make 8 portions):
+1. Sauté onion, garlic, carrots, celery (10 min)
+2. Add 400g/14oz lentils + 2 cans tomatoes
+3. Simmer 30 min → Store "SUN-Bolognese"
+
+**Quick Sauces**:
+- Yogurt sauce: 1.5 cups yogurt + herbs + lemon → Jar "MON-Yogurt"
+- Tahini sauce: 1/2 cup tahini + lemon + garlic → Jar "WED-Tahini"
+
+## PREP STATION 5: ASSEMBLY & FINAL TASKS (15 min)
+**Assembly**:
+- Pizza dough: Stretch on parchment, pre-bake 5 min → Freeze "FRI-Pizza Base"
+- Sheet pan: Tofu + vegetables + oil → Cover with plastic "WED-Sheet Pan"
+- Slow cooker: Layer chicken, beans, veg, add broth + 2 cans tomatoes → Fridge "TUE-Start 8am"
+
+**Final Tasks**:
+- Grate cheeses: Mozzarella "FRI-Pizza", Parmesan "Week-Parmesan"
+- Chop herbs: Parsley & dill "MON-Herbs", Cilantro "THU-Cilantro"
+- Portion omega-3: 4 tbsp flax, 1/2 cup walnuts → "MON-Omega3", "WED-Flax"
+
+## STORAGE NOTES
+**Can Store Together** (same dish):
+- TUE slow cooker: Chicken + beans + carrots + celery + broth in insert
+- WED sheet pan: Tofu + peppers + broccoli + tomatoes on pan
+- THU curry: Complete curry base with chickpeas
+- SUN bolognese: Complete sauce with lentils + vegetables
+
+**Store Separately**:
+- All proteins for different days
+- Pre-cooked rice (label WED vs THU)
+- Vegetables going to different dishes
+
+**Special Storage**:
+- Mushrooms/Green beans: With paper towel for moisture control
+- Pizza base: Freezer on sheet pan
+- Spinach: DO NOT prep Sunday - buy fresh, use within 2 days of prep
 

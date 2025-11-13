@@ -1,65 +1,107 @@
 #filename: Day_By_Day_Instructions.pdf
 
-## MON – Sheet-Pan Trout
-**Ingredients:** trout fillets, sweet potato, asparagus, lemon, dill, plain yogurt  
-**Quick-Prep (≤3 steps):**  
-1. Roast pre-seasoned trout, sweet potato cubes, asparagus (200 °C / 400 °F, 15–20 min).  
-2. Mix pre-chopped dill, yogurt, lemon juice.  
-3. Serve sauce on side.  
-**Leftover-packing:** Pack trout + veg in airtight containers; sauce in separate small jar.
+# DAY-BY-DAY DINNER INSTRUCTIONS
 
 ---
 
-## TUE – Slow-Cooker Chicken Curry
-**Ingredients:** chicken thighs, carrots, tomatoes, chickpeas, curry powder, spinach, yogurt, brown rice  
-**Quick-Prep:**  
-1. Place chicken, carrots, tomatoes, chickpeas, curry powder in slow cooker; cook 6–8 h low.  
-2. Stir spinach in last 5 min.  
-3. Serve over pre-cooked brown rice; yogurt on side.  
-**Leftover-packing:** Curry + rice in divided lunch containers.
+## MONDAY – Baked Rainbow Trout with Roasted Broccoli & Wild Rice
+
+**INGREDIENTS:**
+- Pre-cooked wild rice (from fridge)
+- Pre-seasoned rainbow trout fillets (from fridge)
+- Pre-cut broccoli florets (from fridge)
+- Pre-grated parmesan cheese
+
+**STEPS (15 min active):**
+1. Preheat oven to 400°F. Grab wild rice; reheat in microwave 2–3 min.
+2. Place trout on baking sheet; bake 12–15 min.
+3. Add broccoli to sheet pan last 15 min; sprinkle with parmesan before serving.
+
+**LEFTOVERS:** Pack 2 adult lunch portions (trout + rice + broccoli in separate containers).
 
 ---
 
-## WED – Pasta (Assemble/Reheat)
-**Source:** Tue curry leftovers (chicken, spinach, chickpeas)  
-**Quick-Prep:**  
-1. Toss shredded chicken & spinach with hot pasta & olive oil.  
-2. Add chickpeas.  
-3. Sprinkle Parmesan (optional).  
-**Leftover-packing:** Pasta mix in airtight lunch container.
+## TUESDAY – Slow-Cooker Chicken Tinga (Mexican)
+
+**INGREDIENTS:**
+- Pre-seasoned chicken thighs (from fridge)
+- Pre-made chipotle-tomato sauce (from fridge)
+- Pre-cooked black beans, corn tortillas
+- Pre-shredded cheddar, pre-cut bell peppers, Greek yogurt, pre-chopped cilantro
+
+**STEPS (20 min active):**
+1. **Morning (5 min):** Place chicken + sauce in slow cooker; cook low 6–7 hours.
+2. **Evening (15 min):** Shred chicken in pot; warm beans; warm tortillas.
+3. Assemble tacos with cheese, peppers, yogurt, cilantro.
+
+**LEFTOVERS:** Pack 2 adult lunch portions. Reserve remaining chicken for Thursday dinner.
 
 ---
 
-## THU – Mexican Turkey Tacos
-**Ingredients:** ground turkey, black beans, bell pepper, corn tortillas, cheddar, avocado, cherry tomatoes  
-**Quick-Prep:**  
-1. Sauté turkey + bell pepper.  
-2. Add black beans to heat.  
-3. Serve in tortillas with toppings.  
-**Leftover-packing:** Turkey-bean mix in container; tortillas separate.
+## WEDNESDAY – Sheet-Pan Paprika Chicken with Carrots & Potatoes
+
+**INGREDIENTS:**
+- Pre-assembled sheet pan (chicken + potatoes + carrots, from fridge)
+- Pre-made yogurt-dill sauce (from fridge)
+
+**STEPS (5 min active):**
+1. Preheat oven to 425°F. 
+2. Unwrap sheet pan; bake 35–40 min until chicken reaches 165°F.
+3. Serve with yogurt-dill sauce.
+
+**LEFTOVERS:** Pack 2 adult lunch portions (chicken + veggies).
 
 ---
 
-## FRI – Pizza Night
-**Ingredients:** frozen crust, mozzarella, chicken sausage, spinach, cherry tomatoes, pizza sauce  
-**Quick-Prep:**  
-1. Preheat steel; top crust with sauce, cheese, sausage, spinach, tomatoes.  
-2. Bake until crisp.  
-3. Slice & serve.  
-**Leftover-packing:** Pizza slices in airtight container.
+## THURSDAY – Chicken Tinga Burrito Bowls (ASSEMBLE/REHEAT)
+
+**INGREDIENTS:**
+- Leftover chicken tinga (from Tuesday)
+- Pre-cooked brown rice (from fridge)
+- Pre-shredded cheddar, pre-cut bell peppers, Greek yogurt, pre-chopped cilantro
+
+**STEPS (10 min active):**
+1. Reheat chicken tinga in microwave (3 min).
+2. Reheat brown rice in microwave (2 min).
+3. Assemble bowls: rice + chicken + cheese + peppers + yogurt + cilantro.
+
+**LEFTOVERS:** Pack 2 adult lunch portions if desired.
 
 ---
 
-## SAT – Eat-Out
-No prep or packing.
+## FRIDAY – Pasta Primavera with White Beans (ASSEMBLE/REHEAT)
+
+**INGREDIENTS:**
+- Pre-cooked whole-wheat penne (from fridge)
+- Pre-roasted vegetables + pre-cooked cannellini beans (from fridge)
+- Pre-grated parmesan, fresh basil, lemon
+
+**STEPS (10 min active):**
+1. Reheat penne in microwave with splash of water (2 min).
+2. Reheat vegetables + beans in skillet (3 min).
+3. Toss together with parmesan, torn basil, lemon zest.
+
+**LEFTOVERS:** Family portion only (no extra lunches).
 
 ---
 
-## SUN – Quesadillas (Assemble/Reheat)
-**Source:** Thu turkey/bean mix  
-**Quick-Prep:**  
-1. Reheat beans/peppers; add corn & cheddar.  
-2. Assemble quesadillas, cook until cheese melts.  
-3. Serve with salsa or avocado.  
-**Leftover-packing:** Quesadillas wrapped in foil; avocado separate.
+## SATURDAY – EAT-OUT NIGHT
+
+Family choice! Enjoy a break from cooking.
+
+---
+
+## SUNDAY – Homemade Pizza Night with Mixed Greens Salad
+
+**INGREDIENTS:**
+- Frozen pizza crusts (2), pre-portioned pizza sauce
+- Pre-shredded mozzarella, pre-cooked sausage, pre-sliced mushrooms
+- Pre-washed greens, cherry tomatoes, pre-made vinaigrette
+
+**STEPS (15 min active):**
+1. Preheat pizza steel at 500°F for 45–60 min (upper-middle rack).
+2. **Assemble pizzas (10 min):** Spread sauce + mozzarella + sausage + mushrooms on crusts; bake 8–12 min; finish under broiler 1–2 min.
+3. Toss salad with greens, tomatoes, vinaigrette.
+
+**LEFTOVERS:** Pack 2–3 adult lunch portions (pizza slices).
 
